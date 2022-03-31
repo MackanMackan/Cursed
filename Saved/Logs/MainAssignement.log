@@ -2720,3 +2720,13 @@ Scale3D: 1.000000 1.000000 1.000000
 [2022.03.31-18.22.15:859][789]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/SFX/Dialog/DialogMotherTree_Auto6
 [2022.03.31-18.22.15:859][789]LogSavePackage: Moving '../../../../../../Users/Marcu/OneDrive/Dokument/Unreal Projects/MainAssignement/Saved/DialogMotherTree_Auto6569466FE48F5DF8D79C51A8DFB3628A4.tmp' to '../../../../../../Users/Marcu/OneDrive/Dokument/Unreal Projects/MainAssignement/Saved/Autosaves/Game/SFX/Dialog/DialogMotherTree_Auto6.uasset'
 [2022.03.31-18.22.15:860][789]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.03.31-18.32.16:305][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.31-18.32.16:735][577]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainLevel_Auto7
+[2022.03.31-18.32.16:736][577]LogSavePackage: Moving '../../../../../../Users/Marcu/OneDrive/Dokument/Unreal Projects/MainAssignement/Saved/MainLevel_Auto70946BFFD40C62BD66F542DA24F81803D.tmp' to '../../../../../../Users/Marcu/OneDrive/Dokument/Unreal Projects/MainAssignement/Saved/Autosaves/Game/MainLevel_Auto7.umap'
+[2022.03.31-18.32.16:742][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.541
+[2022.03.31-18.32.16:742][577]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.541
+[2022.03.31-18.34.06:545][903]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2022.03.31-18.34.06:740][904]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=15536
+[2022.03.31-18.34.07:064][904]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{305bbc05-74d9-42d8-aa5b-d5d19b401507}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=180.25
+[2022.03.31-18.34.07:065][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.03.31-18.34.07:073][905]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
